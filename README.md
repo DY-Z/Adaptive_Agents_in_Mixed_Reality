@@ -18,6 +18,11 @@ ML Agents Extensions: version 0.5.0-preview\
 Animation Rigging: version 1.1 or above\
 Unity XR Plug-in
 
+## Agents
+The baseline agent is hardcoded, while the adaptive agent is trained through reinforcement learning.
+
+The details of our algorithm can be found in the presentation.
+
 ## Presentation
 You can find our presentation slides here.\
 https://docs.google.com/presentation/d/1eYQ3FjF0uSOf_IHLG9LD626fTM6PZsnmjM8Tf9Dch1g/edit?usp=sharing
