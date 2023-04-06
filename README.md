@@ -4,6 +4,8 @@ This is the final year project for my bachelor's degree in Data Science at The H
 
 We trained the agent using Proximal Policy Optimization (PPO) algorithm. We replaced human players with cuboids, whose heights, widths, and velocities were carefully designed. 
 
+![Main Menu](https://github.com/DY-Z/Adaptive_Agents_in_Mixed_Reality/blob/main/MainMenu_Full.png)
+
 ## Environment
 
 To run the demo, you need a Windows 10 machine and a Oculus Rift/Rift S headset. The game's performance on Windows 11 hasn't been tested.
