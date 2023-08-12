@@ -2,7 +2,7 @@
 
 This is the final year project for my bachelor's degree in Data Science at The Hong Kong University of Science and Technology. In this project, we trained an agent who can not only play tennis but also adjust its behaviors according to its opponents' skills. We embedded this agent in an VR tennis game.
 
-We trained the agent using Proximal Policy Optimization (PPO) algorithm. We replaced human players with cuboids, whose heights, widths, and velocities were carefully designed. 
+We trained the agent using Proximal Policy Optimization (PPO) algorithm. We replaced human players with cuboids while training, whose heights, widths, and velocities were carefully designed. 
 
 ![Main Menu](https://github.com/DY-Z/Adaptive_Agents_in_Mixed_Reality/blob/main/MainMenu_Full.png)
 
